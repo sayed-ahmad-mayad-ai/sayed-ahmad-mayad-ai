@@ -82,6 +82,6 @@
 
 ###
 
-  <img height="100" width="800" src="https://i.pinimg.com/originals/17/28/5f/17285fc448d970cdd53b1b3ba11d7e66.gif"  />
+  <img height="150" width="1000" src="https://i.pinimg.com/originals/17/28/5f/17285fc448d970cdd53b1b3ba11d7e66.gif"  />
 
 ###
